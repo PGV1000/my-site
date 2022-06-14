@@ -178,7 +178,8 @@ body {
 }
 
 .user-image {
-  position: absolute;
+  text-align: center;
+  position: relative;
   margin: 0;
 }
 
